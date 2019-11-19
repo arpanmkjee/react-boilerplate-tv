@@ -14,8 +14,8 @@ For Dependency Injection pattern, please follow -> https://medium.com/@magnusjt/
 
 Its very simple to get started using this boilerplate
 
-Step 1: Clone this repo
-Step 2: Run the following command in your terminal "npm run setup && npm start"
+* Step 1: Clone this repo
+* Step 2: Run the following command in your terminal <b>"npm run setup && npm start"</b>
 
 This initializes a new project with this boilerplate. Deletes the current
 git history, installs the dependencies, initializes a new repository and starts the project on localhost:3000
